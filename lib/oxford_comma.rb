@@ -12,7 +12,7 @@ def oxford_comma(array)
       element += 1
     end
     array.join(" and #{array[-1]}")
-    
+
 
 
   end
